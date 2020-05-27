@@ -1,1 +1,2 @@
 changed from remote branch2
+another change from remote branch2
