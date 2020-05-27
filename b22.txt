@@ -18,8 +18,4 @@ one more local modification
 one more remote modification
 
 
-again and aganin local mod
-again and aganin local mod
-again and aganin local mod
-again and aganin local mod
-again and aganin local mod
+again and aganin remote mod
