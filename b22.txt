@@ -3,3 +3,5 @@ another change from remote branch2
 
 here is one more change on branch2 from local
 here is another local change on branch2
+
+local
